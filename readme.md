@@ -10,4 +10,4 @@
 	- evol02
 	- evol03
 	- evol04
-	
+	- evol 05 : test de GIT sous Visual Studio Code
